@@ -36,7 +36,7 @@
                 </a>
                 <div class="flex items-center lg:order-2">
                     <div class="mt-2 mr-4 inline-block">
-                        <a class="github-button" href="https://github.com/GroupeMINASTE/Makth" data-size="large" data-icon="octicon-star" data-show-count="true" aria-label="Star GroupeMINASTE/Makth on GitHub">Star</a>
+                        <a class="github-button" href="https://github.com/NathanFallet/Makth" data-size="large" data-icon="octicon-star" data-show-count="true" aria-label="Star GroupeMINASTE/Makth on GitHub">Star</a>
                     </div>
                 </div>
             </div>
@@ -49,18 +49,10 @@
         <div class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
             <div class="grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-5">
                 <div>
-                    <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Organization</h3>
-                    <ul class="text-gray-500 dark:text-gray-400">
-                        <li class="mb-4">
-                            <a href="https://www.groupe-minaste.org/" class=" hover:underline">Groupe MINASTE</a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
                     <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Platforms</h3>
                     <ul class="text-gray-500 dark:text-gray-400">
                         <li class="mb-4">
-                            <a href="https://github.com/GroupeMINASTE/Makth" class="hover:underline">GitHub</a>
+                            <a href="https://github.com/NathanFallet/Makth" class="hover:underline">GitHub</a>
                         </li>
                         <li class="mb-4">
                             <a href="https://testflight.apple.com/join/jK2K8ngD" class="hover:underline">Playground</a>
@@ -74,7 +66,7 @@
                     <img src="/static/img/logo.png" class="h-6 mr-3 sm:h-9" alt="Logo" />
                     Makth    
                 </a>
-                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2022 Groupe MINASTE</span>
+                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2023 Nathan Fallet</span>
             </div>
         </div>
     </footer>
