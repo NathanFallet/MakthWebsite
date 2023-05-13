@@ -36,7 +36,7 @@
                 </a>
                 <div class="flex items-center lg:order-2">
                     <div class="mt-2 mr-4 inline-block">
-                        <a class="github-button" href="https://github.com/NathanFallet/Makth" data-size="large" data-icon="octicon-star" data-show-count="true" aria-label="Star GroupeMINASTE/Makth on GitHub">Star</a>
+                        <a class="github-button" href="https://github.com/NathanFallet/Makth" data-size="large" data-icon="octicon-star" data-show-count="true" aria-label="Star NathanFallet/Makth on GitHub">Star</a>
                     </div>
                 </div>
             </div>
